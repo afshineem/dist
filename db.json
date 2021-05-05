@@ -4,5 +4,6 @@
   ]
   "coustomer": [
   {"id":1, "name":"Ali"},
-  {"id":2, "name":"Amir"},
+  {"id":2, "name":"Amir"}
+  ]
 }
