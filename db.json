@@ -1,9 +1,37 @@
 {
-  "products": [
-    {"id":1, "title":"post1"}
-  ],
-  "coustomer": [
-    {"id":1, "name":"Ali"},
-    {"id":2, "name":"Amir"}
-  ]
+    "products": [
+        {
+            group: 'گروه محصولات ترشک آلوشا',
+            product: [
+                {
+                    id: 1,
+                    brand: 'آلوشا',
+                    title: 'خرمالو استندی ویژه آلوشا',
+                    basePrice: 22000,
+                    unitPrice: 35000,
+                    customerPrice: 80000,
+                    off: 10,
+                    image: './src/assets/product/01.jpg',
+                    inventory: 540,
+                    inPack: 12,
+                    inCarton: 15,
+                    weight: 70,
+                },
+                {
+                    id: 2,
+                    brand: 'آلوشا',
+                    title: 'زردآلو استندی ویژه آلوشا',
+                    basePrice: 22000,
+                    unitPrice: 35000,
+                    customerPrice: 80000,
+                    off: 10,
+                    image: './src/assets/product/01.jpg',
+                    inventory: 960,
+                    inPack: 12,
+                    inCarton: 15,
+                    weight: 70,
+                },
+            ],
+        }
+    ]
 }
