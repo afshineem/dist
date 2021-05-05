@@ -2,7 +2,7 @@
   "products":
   [
     {
-      "group": "محصولات ترشک",
+      "group": "محصولات ترشک آلوشا",
       "id": 1,
       "product":
         [
@@ -43,11 +43,11 @@
         [
           {
             "id": 1,
-            "brand": "آلوشا",
-            "title": "خرمالو استندی ویژه آلوشا",
-            "basePrice": 22000,
-            "unitPrice": 35000,
-            "customerPrice": 80000,
+            "brand": "نکیسا",
+            "title": "بیسکویت پرتقالی",
+            "basePrice": 105000,
+            "unitPrice": 105000,
+            "customerPrice": 140000,
             "off": 10,
             "image": "./src/assets/product/01.jpg",
             "inventory": 540,
@@ -57,11 +57,11 @@
           },
           {
             "id": 2,
-            "brand": "آلوشا",
-            "title": "زرذآلو استندی ویژه آلوشا",
-            "basePrice": 22000,
-            "unitPrice": 35000,
-            "customerPrice": 80000,
+            "brand": "نکیسا",
+            "title": "بیسکویت پرتقالی",
+            "basePrice": 105000,
+            "unitPrice": 105000,
+            "customerPrice": 140000,
             "off": 10,
             "image": "./src/assets/product/01.jpg",
             "inventory": 640,
