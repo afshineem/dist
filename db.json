@@ -1,37 +1,75 @@
 {
-    "products": [
-        {
-            "group": "گروه محصولات ترشک آلوشا",
-            "product": [
-                {
-                    "id": 1,
-                    "brand": "آلوشا",
-                    "title": "خرمالو استندی ویژه آلوشا",
-                    "basePrice": 22000,
-                    "unitPrice": 35000,
-                    "customerPrice": 80000,
-                    "off": 10,
-                    "image": "./src/assets/product/01.jpg",
-                    "inventory": 540,
-                    "inPack": 12,
-                    "inCarton": 15,
-                    "weight": 70,
-                },
-                {
-                    "id": 2,
-                    "brand": "آلوشا",
-                    "title": "زرذآلو استندی ویژه آلوشا",
-                    "basePrice": 22000,
-                    "unitPrice": 35000,
-                    "customerPrice": 80000,
-                    "off": 10,
-                    "image": "./src/assets/product/01.jpg",
-                    "inventory": 640,
-                    "inPack": 12,
-                    "inCarton": 15,
-                    "weight": 70,
-                },
-            ],
-        }
-    ]
+  "products":
+  [
+    {
+      "id": 1,
+      "brand": "آلوشا",
+      "title": "خرمالو استندی ویژه آلوشا",
+      "basePrice": 22000,
+      "unitPrice": 35000,
+      "customerPrice": 80000,
+      "off": 10,
+      "image": "./src/assets/product/01.jpg",
+      "inventory": 540,
+      "inPack": 12,
+      "inCarton": 15,
+      "weight": 70
+    },
+    {
+      "id": 2,
+      "brand": "آلوشا",
+      "title": "زرذآلو استندی ویژه آلوشا",
+      "basePrice": 22000,
+      "unitPrice": 35000,
+      "customerPrice": 80000,
+      "off": 10,
+      "image": "./src/assets/product/01.jpg",
+      "inventory": 640,
+      "inPack": 12,
+      "inCarton": 15,
+      "weight": 70
+    }
+  ],
+  "user":
+  [
+    {
+      "id": 1,
+      "name": "افشین زارعی"
+    }
+  ],
+  "customers":
+  [
+    {
+      "id": 1,
+      "name": "امیر زارعی",
+      "address": "سنندج، قشلاق",
+      "kodeMelli": 3730000000,
+      "phone": "09180000000",
+      "loan": "-1000000"
+    },
+    {
+      "id": 2,
+      "name": "مصطفی شریعتی",
+      "address": "سنندج، ایستگاه",
+      "kodeMelli": 3730000001,
+      "phone": "09181111111",
+      "loan": "0"
+    },
+    {
+      "id": 3,
+      "name": "ایمان مرادی",
+      "address": "سنندج، نبوت",
+      "kodeMelli": 3730000002,
+      "phone": "09181111111",
+      "loan": "-500000"
+    },
+    {
+      "id": 4,
+      "name": "رضا رسولی",
+      "address": "سنندج، نایسر",
+      "kodeMelli": 3730000003,
+      "phone": "09181111112",
+      "loan": "+100000"
+    }
+  ]
 }
