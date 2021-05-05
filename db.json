@@ -2,6 +2,7 @@
   "products":
   [
     {
+      "title": "group title",
       "group": "محصولات ترشک",
       "id": 1,
       "product":
@@ -37,6 +38,7 @@
         ]
     },
     {
+      "title": "group title",
       "group": "محصولات ترشک آلوشا",
       "id": 2,
       "product":
